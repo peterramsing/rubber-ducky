@@ -1,6 +1,8 @@
 # Rubber Ducky
 
-This project was spurred off of the desire to create an open source project and to also help msyelf and other developers solve problems.
+Rubber Ducky is a tool used to help break one out of their problem. Many times when I'm stuck on a code problem I just need the right question to get me out of whatever corner I backed myself in.
+
+This app will ask you questions about your problem, questions that should help you step back and see your problem from a different angle.
 
 This project currently is very much a WIP. Feel free to create new issues for features or chime in on current issues with any input.
 
