@@ -1,7 +1,28 @@
-# rubber-ducky
-A web app that helps break through those sticky code situations
+# Rubber Ducky
 
-_A work in progress by Peter Ramsing_
+This project was spurred off of the desire to create an open source project and to also help msyelf and other developers solve problems.
 
-So of then when I'm stuck in the middle of a hard problem I just need to stop and ask the right questions.
-This project is suppose to help me do that.
+This project currently is very much a WIP. Feel free to create new issues for features or chime in on current issues with any input.
+
+This project currently has only one goal: [see milestone](https://github.com/peterramsing/rubber-ducky/milestones/Initial%20Working%20Prototype) and will grow and adapt...or I'll get really busy and this will not go anywhere too far.
+
+
+#### My personal goals from this project
+- Build an Angular app
+- Write better tested code
+- Learn what questions I can be asking myself in my day job to solve problems faster and better
+- Contribute to the open source community, without which I would not be who I am today
+
+
+
+
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.14.0.
+
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
